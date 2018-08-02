@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/csc600_hw2_part_3.dir/main.cpp.o  -o csc600_hw2_part_3 
